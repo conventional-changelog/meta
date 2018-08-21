@@ -7,72 +7,72 @@
     {
       "name": "advance developer workflow",
       "description": "Issues related to behavior that address a workflow not part of the most common workflow.",
-      "color": "#5843AD"
+      "color": "5843AD"
     },
     {
       "name": "defect",
       "description": "Functionality not meeting the documented behavior for that project.",
-      "color": "#FF0000"
+      "color": "FF0000"
     },
     {
       "name": "design",
       "description": "Discussion around design for behavior that may, or may not, lead to modifications.",
-      "color": "#FADFAE"
+      "color": "FADFAE"
     },
     {
       "name": "documentation",
       "description": "Installation and usage guides, along with how to's for developers, consumers, and contributors.",
-      "color": "#7F8C8D"
+      "color": "7F8C8D"
     },
     {
       "name": "enhancement",
       "description": "A change to a project's repository that adds new behavior for downstream consumers.",
-      "color": "#69D100"
+      "color": "69D100"
     },
     {
       "name": "help wanted",
       "description": "We need the community's help to address this issue by contributing a merge request with the necessary changes.",
-      "color": "#228B22"
+      "color": "228B22"
     },
     {
       "name": "operations",
       "description": "Tasks that do not require modifications to a project's repository.",
-      "color": "#00FFFF"
+      "color": "00FFFF"
     },
     {
       "name": "refactor",
       "description": "A modification to a project's repository that will not change the behavior for downstream consumers.",
-      "color": "#34495E"
+      "color": "34495E"
     },
     {
       "name": "security",
       "description": "Please file security related issues and incidents as confidential.",
-      "color": "#0033CC"
+      "color": "0033CC"
     },
     {
       "name": "suggestion",
       "description": "Proposal for a change to the project where concensus may be needed.",
-      "color": "#44AD8E"
+      "color": "44AD8E"
     },
     {
       "name": "support",
       "description": "Issues that do not require modifications to a project, such as questions, guidance, etc.",
-      "color": "#8E44AD"
+      "color": "8E44AD"
     },
     {
       "name": "technical debt",
       "description": "Task that, if done now, will lower the cost of future work.",
-      "color": "#5843AD"
+      "color": "5843AD"
     },
     {
       "name": "test",
       "description": "Issues related to a project's test suite, such as unit, integration, or end-to-end tests.",
-      "color": "#F0AD4E"
+      "color": "F0AD4E"
     },
     {
       "name": "upstream",
       "description": "Issue can only be resolved by fixing, or enhancing, an upstream dependency.",
-      "color": "#D10069"
+      "color": "D10069"
     }
   ]
 }]
