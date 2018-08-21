@@ -1,7 +1,8 @@
 [{
   "repositories": [
     "conventional-changelog/conventional-changelog",
-    "conventional-changelog/releaser-tools"
+    "conventional-changelog/releaser-tools",
+    "conventional-changelog/meta"
   ],
   "labels": [
     {
