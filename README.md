@@ -1,5 +1,19 @@
 # conventional-changelog
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [conventional-changelog](#conventional-changelog)
+  - [Joining the `conventional-changelog` Organization](#joining-the-conventional-changelog-organization)
+    - [Setup Two-factor Authentication](#setup-two-factor-authentication)
+  - [Setting Up a Project](#setting-up-a-project)
+    - [GitHub Labels](#github-labels)
+  - [Common Issues](#common-issues)
+    - [Disabling Two Factor Authentication](#disabling-two-factor-authentication)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Joining the `conventional-changelog` Organization
 
 There are a few tasks that will need to be completed prior to joining the `conventional-changelog` organization as an administrator, project owner, or outside collaborator.
