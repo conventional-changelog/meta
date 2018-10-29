@@ -2,6 +2,9 @@
   "repositories": [
     "conventional-changelog/conventional-changelog",
     "conventional-changelog/releaser-tools",
+    "conventional-changelog/get-pkg-repo",
+    "conventional-changelog/conventional-commits-detector",
+    "conventional-changelog/artwork",
     "conventional-changelog/meta"
   ],
   "labels": [
@@ -22,7 +25,7 @@
     },
     {
       "name": "documentation",
-      "description": "Installation and usage guides, along with how to's for developers, consumers, and contributors.",
+      "description": "Installation and usage guides, along with tutorials for developers, consumers, and contributors.",
       "color": "7F8C8D"
     },
     {
@@ -32,7 +35,7 @@
     },
     {
       "name": "help wanted",
-      "description": "We need the community's help to address this issue by contributing a merge request with the necessary changes.",
+      "description": "We need the community's help to address this issue through the contribution of a pull request.",
       "color": "228B22"
     },
     {
@@ -52,7 +55,7 @@
     },
     {
       "name": "suggestion",
-      "description": "Proposal for a change to the project where concensus may be needed.",
+      "description": "Proposal for a change to the project where consensus may be needed.",
       "color": "44AD8E"
     },
     {
@@ -75,5 +78,15 @@
       "description": "Issue can only be resolved by fixing, or enhancing, an upstream dependency.",
       "color": "D10069"
     }
-  ]
+  ],
+  "settings": {
+    "issues": true,
+    "wiki": false,
+
+    "defaultBranch": "master",
+
+    "squashMerge": true,
+    "mergeCommit": false,
+    "rebaseMerge": false
+  }
 }]
