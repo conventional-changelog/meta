@@ -36,7 +36,7 @@ Once you have a new project on `conventional-changelog`'s organization, it's tim
 
 To help with issue and pull request management, we recommend a set of [GitHub Labels](https://help.github.com/articles/about-labels/) in this project's [`configuration.json`](./configuration.json) file.
 
-To deploy these labels to a project, please install [`@hbetts/github-metadata-sync`](https://www.npmjs.com/package/@hbetts/github-metadata-sync), download the `configuration.json` file (or clone this repository), and run the following:
+To deploy these labels to a project, please install [`@hutson/github-metadata-sync`](https://www.npmjs.com/package/@hutson/github-metadata-sync), download the `configuration.json` file (or clone this repository), and run the following:
 
 ```bash
 github-metadata-sync --token [PERSONAL ACCESS TOKEN] --config configuration.json
